@@ -1,0 +1,4 @@
+baseURL = 'https://www.todd.dev'
+languageCode = 'en-us'
+title = 'Todd.Dev'
+theme = 're-terminal'
